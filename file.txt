@@ -3,3 +3,6 @@ Rinal
 Datamites
 Data foundation
 Python
+Statistics
+SQL 
+Power Bi
