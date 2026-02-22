@@ -3,3 +3,5 @@ Rinal
 Datamites
 Data foundation
 Python
+Power Bi
+Git
