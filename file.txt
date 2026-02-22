@@ -1,6 +1,4 @@
-Hello world
-Rinal 
-Datamites
+
 Data foundation
 Python
 Power Bi
